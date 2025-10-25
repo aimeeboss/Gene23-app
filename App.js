@@ -1,0 +1,1 @@
+// Gene23 app code placeholder - actual content provided in ChatGPT canvas

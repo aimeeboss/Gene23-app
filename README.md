@@ -1,2 +1,1 @@
-# Gene23-app
-Health and wellbeing clinic 
+# Gene23 Health & Wellbeing App\nDeployed via Vercel as a PWA.
